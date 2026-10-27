@@ -12,7 +12,7 @@ hide_image: true
 This is a documentation for a development extension that I made for [IcePi Zero FPGA](https://github.com/cheyao/icepi-zero). Below you can find a github repository of this project along side the kicad files and a demo code for [IceStudio](https://icestudio.io/) (*if you are using IceStudio, make sure to have version 1.0 or later*)
 
 ## Git repo :)
-{% set repo = "Glinek/IcePiZero-devExtension" %}
+{% set repo = "otho-dll/IcePiZero-devExtension" %}
 {% include "partials/github-card.njk" %}
 
 ## Pin Assignment

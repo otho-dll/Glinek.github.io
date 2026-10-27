@@ -50,7 +50,7 @@ If you want to print the same case as on this blog's picture, it is avaiable bel
 {% set url = "https://www.printables.com/model/1774644-icepi-zero-case-housing" %}
 {% include "partials/printables-card.njk" %}
 
-{% set repo = "Glinek/IcePiZero-case" %}
+{% set repo = "otho-dll/IcePiZero-case" %}
 {% include "partials/github-card.njk" %}
 
 #### Thank you for reading! I hope I helped a little :)  

@@ -12,7 +12,7 @@ This is a documentation for my custom Pi Pico 2W made using [Raspberry Pi's Hard
 
 
 ## Git repo :)
-{% set repo = "Glinek/ANUlab_Z-Blade" %}
+{% set repo = "otho-dll/ANUlab_Z-Blade" %}
 {% include "partials/github-card.njk" %}
 
 ## Buttons
